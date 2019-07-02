@@ -4,7 +4,7 @@
     <SOURCE>Abc</SOURCE>
     <TYPE>Sanguinaria canadensis</TYPE>
     <ZONE>4</ZONE>
-    <SIZE>Mostly Shady</SIZE>
+    <SIZE>300</SIZE>
     <LINES>$2.44</LINES>
     <FEED>031599</FEED>
   </DATA>
@@ -12,7 +12,7 @@
     <SOURCE>Abc</SOURCE>
     <TYPE>Aquilegia canadensis</TYPE>
     <ZONE>3</ZONE>
-    <SIZE>Mostly Shady</SIZE>
+    <SIZE>234</SIZE>
     <LINES>$9.37</LINES>
     <FEED>030699</FEED>
   </DATA>
@@ -20,7 +20,7 @@
     <SOURCE>Xyz</SOURCE>
     <TYPE>Caltha palustris</TYPE>
     <ZONE>4</ZONE>
-    <SIZE>Mostly Sunny</SIZE>
+    <SIZE>5422</SIZE>
     <LINES>$6.81</LINES>
     <FEED>051799</FEED>
   </DATA>
@@ -28,7 +28,7 @@
     <SOURCE>Xyz</SOURCE>
     <TYPE>Caltha palustris</TYPE>
     <ZONE>4</ZONE>
-    <SIZE>Mostly Shady</SIZE>
+    <SIZE>45733</SIZE>
     <LINES>$9.90</LINES>
     <FEED>030699</FEED>
   </DATA>
@@ -36,7 +36,7 @@
     <SOURCE>Acme</SOURCE>
     <TYPE>Dicentra cucullaria</TYPE>
     <ZONE>3</ZONE>
-    <SIZE>Mostly Shady</SIZE>
+    <SIZE>456753</SIZE>
     <LINES>$6.44</LINES>
     <FEED>012099</FEED>
   </DATA>
@@ -44,7 +44,7 @@
     <SOURCE>Acme</SOURCE>
     <TYPE>Asarum canadense</TYPE>
     <ZONE>3</ZONE>
-    <SIZE>Mostly Shady</SIZE>
+    <SIZE>533</SIZE>
     <LINES>$9.03</LINES>
     <FEED>041899</FEED>
   </DATA>
